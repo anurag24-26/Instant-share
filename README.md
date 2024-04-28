@@ -45,14 +45,3 @@ Welcome to InstantShare! This is a real-time file sharing app that allows you to
 
 - If you encounter any issues during installation or running the app, please check the logs for error messages and ensure you have the correct Node.js version installed.
 
-## Contributing
-
-- If you would like to contribute to the project, feel free to open an issue or pull request on the [GitHub repository](https://github.com/yourusername/instantshare).
-
-## License
-
-- This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-- For any questions or support, please reach out to [yourusername@gmail.com](mailto:yourusername@gmail.com).
